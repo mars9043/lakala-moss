@@ -1,6 +1,6 @@
 # lakala-moss
 
-拉卡拉MOSS支付下单技能 — 通过MOSS统一支付API发起支付订单并获取支付链接。
+拉卡拉MOSS支付下单技能 — 通过MOSS统一支付API发起支付订单并获取支付链接。详细情况访问moss.lakala.com
 
 ## 功能
 
